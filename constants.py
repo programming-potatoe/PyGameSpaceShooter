@@ -3,7 +3,7 @@ import os
 
 # constants in capital letters
 # window constants
-WIDTH, HEIGHT = 2000, 1000
+WIDTH, HEIGHT = 1000, 500
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("the name of my window")
 FPS = 60
